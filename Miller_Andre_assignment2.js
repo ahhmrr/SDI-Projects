@@ -13,7 +13,7 @@ var friend1 = "Quincy",
 	friend5 = "Ayasia"
 ;
 
-//Procedure
+// Procedure
 var clockOut = "4pm"
 var offWork = function(clockOut) {
 	if (clockOut === "4pm") {
