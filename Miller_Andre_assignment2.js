@@ -88,6 +88,7 @@ var extraFriends = function(dropoffs) {
 var noFriends = "I have no more friends to drop off because " + friend5 + " is staying the night at my place.";	
 	return noFriends
 };
+
 var rides = extraFriends(4);
 	console.log(rides);
 
