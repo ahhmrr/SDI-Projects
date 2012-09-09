@@ -31,7 +31,7 @@ console.log("They had already bought the tickets and wanted to know if I had any
 // Boolean Function with return
 var whatToDo = function(movieTickets, amountOfMoney) {
 	var goingToMovies;
-		if (movieTickets && !amountOfMoney === false) {
+		if(movieTickets && !amountOfMoney === false) {
 			goingToMovies = " and I had enough money to buy popcorn";
 		} else {
 			goingToMovies = ", but I didn't have enough to buy popcorn";
