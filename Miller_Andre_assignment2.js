@@ -73,7 +73,7 @@ console.log(opinions);
 
 
 //  Array Function with for-loop
-console.log("On the way out of the theatre, I see our friends from earlier waiting on a ride, so I decide to give them I ride home.");
+console.log("On the way out of the theatre, I seen our friends from earlier waiting on a ride, so I decide to give them I ride home.");
 var friends = [
 	"Quincy",
 	"Brooklyn",
