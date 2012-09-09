@@ -1,6 +1,6 @@
 // Andre' Miller
 // September 5, 2012
-// SDI 1209
+// SDI Term 1209
 // Project 2
 // After My Work Day (Night with Friends)
 
